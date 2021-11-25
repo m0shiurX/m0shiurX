@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Full Stack Development with laravel and vue
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on php projects
+- 👯 I’m looking to collaborate on any php projects
 - 🤔 I’m looking for help with flutter
 - 💬 Ask me about php and js
 - 📫 How to reach me: moshiur@chromatic.network
