@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with flutter
 - 💬 Ask me about php and js
 - 📫 How to reach me: moshiur@chromatic.network
-- ⚡ Stats:
+- ⚡ A few Stats:
 
 
 ![m0shiurX's stats][m0shiurX-readme-stats] ![m0shiurX's top languages][nb-top-langs2]    
