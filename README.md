@@ -1,5 +1,5 @@
 ## Full Stack Developer
-#### ✅ Laravel, ✅ Vue,  ✅ CodeIgniter, ✅ API integration and Development are the major fields I have expertise in. If you need a customized Web Application or Dashboard or Admin Panel or any type of website, I would be glad to assist you!
+#### ✅ Laravel, ✅ Vue,  ✅ CodeIgniter, ✅ API integration and Development are the major fields I have expertise in, if you need a customized Web Application or Dashboard or Admin Panel or any type of website, I would be glad to assist you!
 
 - 🔭 I’m currently working on Full Stack Development with laravel and vue
 - 🌱 I’m currently learning React
