@@ -6,7 +6,7 @@
 -   🌱 I’m currently learning React
 -   👯 I’m looking to collaborate on any php projects
 -   🤔 I’m looking for help with flutter
--   💬 Ask me about php and js
+-   💬 Ask me about PHP and Js
 -   📫 How to reach me: moshiur@chromatic.network
 
 _Updated on: May 8, 2022_
