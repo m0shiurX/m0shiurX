@@ -9,4 +9,4 @@
 -   💬 Ask me about PHP and Js
 -   📫 How to reach me: moshiur@chromatic.network
 
-_Updated on: April 24, 2022_
+_Updated on: May 2, 2022_
