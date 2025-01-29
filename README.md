@@ -6,6 +6,6 @@ Hello, my name is Moshiur Rahman and I am a full stack developer with over 5 yea
 -   🌱 I’m currently learning React
 -   👯 I’m looking to collaborate on any php projects
 -   💬 Ask me about PHP and Js
--   📫 How to reach me: moshiur@chromatic.network
+-   📫 How to reach me: moshiur@ryzan.co
 
-_Updated on: July 18, 2022_
+_Updated on: January 25, 2025_
