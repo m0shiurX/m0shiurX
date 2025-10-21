@@ -6,19 +6,6 @@
 
 I build **automation-first SaaS platforms, CRMs and internal tools** using Laravel + React (/w Inertia v2). I help founders replace manual workflows with scalable productized systems that increase lead velocity, reduce ops overhead and deliver ROI in weeks, not quarters.
 
-### Recent Results
-- ✅ **87% faster lead response** for a 45-agent real estate brokerage
-- ✅ **40% reduction in manual ops** for a legal services firm
-- ✅ **3.2x ROI within 6 months** across all projects
-
-## 💼 What I Build
-
-- **Custom CRMs** (4-Week Sprint)
-- **Learning Management Systems**
-- **Internal Dashboards & Admin Panels**
-- **E-commerce Platform Rebuilds**
-- **Workflow Automation Tools**
-
 ## 🛠️ Tech Stack
 
 ```
@@ -50,7 +37,6 @@ Want a **free 20-min automation audit** or curious about the **4-Week CRM Plan**
 - 💼 LinkedIn: [@m0shiur](https://linkedin.com/in/m0shiur)
 - 🐦 X/Twitter: [@m0shiur](https://x.com/m0shiur)
 - 📧 Email: moshiur@ryzan.co
-- 💬 DM me **"AUDIT"** for a quick system teardown
 
 ---
 
