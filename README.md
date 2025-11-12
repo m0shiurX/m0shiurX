@@ -28,7 +28,7 @@ DevOps:     VPS, CI/CD, Cloud Hosting (forge/laravel-cloud)
 - Sharing build-in-public updates on [LinkedIn](https://linkedin.com/in/m0shiur) and [X](https://x.com/m0shiur)
 - Open to collaborating on Laravel/PHP/React projects
 
-## You can connec me at
+## Reach me at
 
 - LinkedIn: [@m0shiur](https://linkedin.com/in/m0shiur)
 - X: [@m0shiur](https://x.com/m0shiur)
