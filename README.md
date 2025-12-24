@@ -40,8 +40,6 @@ DevOps:     VPS, CI/CD, Cloud Hosting (forge/laravel-cloud)
   
 **Building systems that eliminate, increase sales, and improve workflow**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m0shiur-blue?style=flat&logo=linkedin)](https://linkedin.com/in/m0shiur)
-[![Twitter](https://img.shields.io/badge/Twitter-@m0shiur-1DA1F2?style=flat&logo=x)](https://x.com/m0shiur)
-[![Website](https://img.shields.io/badge/Website-spaceworks.dev-green?style=flat&logo=google-chrome)](https://spaceworks.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m0shiur-blue?style=flat&logo=linkedin)](https://linkedin.com/in/m0shiur) [![Twitter](https://img.shields.io/badge/Twitter-@m0shiur-1DA1F2?style=flat&logo=x)](https://x.com/m0shiur) [![Website](https://img.shields.io/badge/Website-spaceworks.dev-green?style=flat&logo=google-chrome)](https://spaceworks.dev)
 
 </div>
