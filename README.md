@@ -1,32 +1,32 @@
 # Hi, I'm Moshiur Rahman 👋
 
-**Founder [@spaceworksdev](https://spaceworks.dev)** | Building automation ready SaaS, Dashboards & internal tools
+**Founder [@spaceworksdev](https://spaceworks.dev)** | Building modern business solutions for Human
 
 ## What I Love to Do
 
-I build **SaaS platforms, Dashboards and internal tools** using Laravel + React (/w Inertia v2). I help founders replace manual workflows with scalable productized systems that increase lead velocity, reduce ops overhead and deliver ROI in weeks, not quarters.
+I build **Business appplications, Dashboards and internal tools** using modern technology. I help founders replace manual workflows with scalable productized systems that increase velocity, reduce ops overhead and deliver greater ROI.
 
 ## My Favourite Tech Stack
 
 ```
-Backend:    Laravel 12, PHP 8.3+
-Frontend:   React 19, Inertia v2, Vue
+Backend:    Laravel 12, PHP 8.4
+Frontend:   React 19, Inertia v2, Vue 3
 UI/UX:      Tailwind CSS, shadcn/ui
 Database:   MySQL, PostgreSQL, SQLite
-DevOps:     VPS, CI/CD, Cloud Hosting (forge/laravel-cloud)
+DevOps:     VPS, CI/CD with Github
 ```
 
 ## I love working in
-**Industries:** Real Estate, Legal Tech, Coaching/LMS, Service Agencies, Rental Services, Booking Services 
+**Industries:** SMB, Manufacturing, Service Agencies, Rental Services, Booking Services 
 **Approach:** Pragmatic, automation-first, with measurable business impact  
 **Delivery:** Fast execution with clean architecture and maintainable code
 
 ## Currently
 
 - Working with amazing peoples at [Spaceworks](https://spaceworks.dev)
-- Deep diving daily in Laravel - React projects
+- Deep diving daily in Laravel - React/Vue projects
 - Sharing build-in-public updates on [LinkedIn](https://linkedin.com/in/m0shiur) and [X](https://x.com/m0shiur)
-- Open to collaborating on Laravel/PHP/React projects
+- Open to collaborating on Laravel/PHP/React/Vue projects
 
 ## Reach me at
 
