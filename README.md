@@ -4,7 +4,7 @@
 
 ## What I Love to Do
 
-I build **Business appplications, Dashboards and internal tools** using modern technology. I help founders replace manual workflows with scalable productized systems that increase velocity, reduce ops overhead and deliver greater ROI.
+I build **business appplications, dashboards and internal tools** using modern technology. I help founders replace manual workflows with scalable productized systems that increase velocity, reduce ops overhead and deliver greater ROI.
 
 ## My Favourite Tech Stack
 
