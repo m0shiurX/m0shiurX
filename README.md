@@ -32,7 +32,7 @@ DevOps:     VPS, CI/CD with Github
 
 - LinkedIn: [@m0shiur](https://linkedin.com/in/m0shiur)
 - X: [@m0shiur](https://x.com/m0shiur)
-- Or email me directly to moshiur@ryzan.co
+- Or email me directly to moshiur@spaceworks.dev
 
 ---
 
