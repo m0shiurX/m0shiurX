@@ -9,16 +9,16 @@ I build **appplications and dashboards** using modern technology. I help busines
 ## My Favourite Tech Stack
 
 ```
-Backend:    Laravel 12, PHP 8.4
-Frontend:   React or Vue
+Backend:    Laravel 13, PHP 8.5
+Frontend:   React & Vue
 UI/UX:      Tailwind CSS, shadcn/ui
 Database:   MySQL, PostgreSQL, SQLite
-DevOps:     VPS, CI/CD with Github
+DevOps:     VPS, CI/CD
 ```
 
 ## I love working in
 **Industries:** SMB, Manufacturing, Service Agencies, Rental Services, Booking Services 
-**Approach:** Pragmatic, automation-first, with measurable business impact  
+**Approach:** Pragmatic, automation-first, with measurable business impact
 **Delivery:** Fast execution with clean architecture and maintainable code
 
 ## Currently
